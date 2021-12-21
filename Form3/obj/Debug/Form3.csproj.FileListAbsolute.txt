@@ -1,0 +1,14 @@
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\bin\Debug\Form3.exe.config
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\bin\Debug\Form3.exe
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\bin\Debug\Form3.pdb
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.csproj.AssemblyReference.cache
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.Form1.resources
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.Properties.Resources.resources
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.csproj.GenerateResource.cache
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.csproj.CoreCompileInputs.cache
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.exe
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.pdb
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.Form2.resources
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.Form3.resources
+C:\Users\pedro.tonhao\source\repos\Form3\Form3\obj\Debug\Form3.view.Form4.resources
